@@ -1,0 +1,52 @@
+1. https://github.com/fokrul511/MPI-Flutter-Projects  (Flutter project link)
+2. https://www.youtube.com/watch?v=JAq9fVn3X7U (Flutter awesome notification)
+3. https://github.com/abuanwar072/Protfolio-Website-Flutter-Web?fbclid=IwAR0qu1z9HoQzmGdDEdAr5eRUBADvLA0HLKWICuT8fMf3XO5ODEN_maii-Fk (Flutter portfolio code link)
+
+===========================================important topics==================================
+1. https://www.youtube.com/playlist?list=PLFnP99lVGnhVyzncawNpuUhwc3Pg4uCbc  (api, getx)
+2. https://www.youtube.com/@flutterdev/featured(flutter for ios, web, google)
+3. https://www.youtube.com/playlist?list=PLVpp0SvtYtde5-KeOnTl0ihiy5PhMMz-L (Flutter various advance item)
+4. https://www.youtube.com/watch?v=HT-3hQrPJ6c (payment gateway)
+5. https://www.youtube.com/watch?v=-FAiH638BHo (getx, obx, getbuilder)
+6. https://www.reddit.com/r/flutterhelp/?rdt=60580
+7. https://www.youtube.com/watch?v=2L8maZUY2hU (Dynamic theme)
+
+============================================flutter UI design=================================
+1. https://www.flutteruidev.tech/auth?fbclid=IwAR1DISQXu7uTKFXT9QXFuq95Wpj2zMKCdOyWpbucYVRALr-uhWoyQChPK68 
+2. https://www.youtube.com/@TheFlutterWay/featured
+3. https://m3.material.io/develop/flutter?fbclid=IwAR1Jh7i11RTJNrzOPQLsbij00_dqalMvD9Vt4f4GmzonH-Ca4QuOyZwAhT4
+4. https://m2.material.io/components?fbclid=IwAR2miwVJIrJALJlO6SGOM6siCR_C7-uPPoOj4s0SJyosrQw63RkU6Su2Q_A
+5. https://api.flutter.dev/flutter/material/AppBar-class.html?fbclid=IwAR0OkO9E988luMxMMEkQyxDSpO7bRIzNlmxb6ofY28mImDgO459ARO8SQ64 (Appbar)
+6. https://www.youtube.com/watch?v=OXQ5ee6p9ZA
+
+============================================important series=================================
+1. https://www.youtube.com/playlist?list=PLyZkfqhUc8IP_NuZL67xs36YnKn1JEfrv
+2. https://www.youtube.com/@thetechbrotherss/playlists (Tech Brother) 
+3. https://www.youtube.com/@SantosEnoque/playlists
+4. https://www.youtube.com/@appbrewery/playlists
+
+=============================================bangla series====================================
+1. https://www.youtube.com/playlist?list=PLLNZ_kZfHNmdLfFTFD6zwd1B3ajOWRlvl
+2. https://www.youtube.com/watch?v=AbOpHYxIH8Y&list=PLLNZ_kZfHNmdLfFTFD6zwd1B3ajOWRlvl&index=11
+
+=============================================Flutter web========================================
+1. https://github.com/abuanwar072/Protfolio-Website-Flutter-Web?fbclid=IwAR0qu1z9HoQzmGdDEdAr5eRUBADvLA0HLKWICuT8fMf3XO5ODEN_maii-Fk (Portfoilio site)
+
+=============================================Flutter tutorial store=======================================
+1. https://codewithandrea.com/tutorials/?fbclid=IwAR3sxpfzunoOM9tcs7gNvENy0DB82yuhws_Xn7TdS2XN3m4m1yio4Vwjss8
+2. https://codewithandrea.com/?fbclid=IwAR3t4WcveqEzDZJ1a0iKBGITfWwM5GqEwPznNdH3QM5jQxG0vNezEvdT4uY
+3. https://www.youtube.com/watch?v=bhvFPssXGdQ
+4. https://www.youtube.com/watch?v=OxeFz3swV2g&fbclid=IwAR0OkO9E988luMxMMEkQyxDSpO7bRIzNlmxb6ofY28mImDgO459ARO8SQ64
+
+=============================================Flutter Project==============================================
+1. https://www.youtube.com/playlist?list=PLVpp0SvtYtdfMvoSB1NwHq3J0MFHSz5FQ (Ecommerce with API)
+2. https://www.youtube.com/playlist?list=PLag9hTrQE5r6S1Qabm5T5EzjUr2MPhrRM (Ecommerce app UI)
+3. https://www.youtube.com/playlist?list=PL-7EgTNrNHKYe2PulhORLN13xcfqIP8FK (Ecommerce with firebase)
+4. https://www.youtube.com/watch?v=DAl3dbTnAgw
+
+==============================================long day vedio============================================
+1. https://www.youtube.com/watch?v=j-LOab_PzzU
+2. https://www.youtube.com/watch?v=jYoALeP3eH8
+3. https://www.youtube.com/watch?v=71AsYo2q_0Y
+4. https://www.youtube.com/watch?v=HQ_ytw58tC4
+5. https://www.youtube.com/watch?v=CzRQ9mnmh44
