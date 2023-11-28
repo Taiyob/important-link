@@ -1,0 +1,23 @@
+1. https://www.youtube.com/watch?v=tvE6C9OVisc (clone website using command line)
+2. https://www.learnquest.com/aws-learning-plan.aspx?aws_raven_categoryid=2&li_fat_id=759c4260-9f69-4c5c-b957-fa59d9b5d9e0&fbclid=IwAR2CtRFC02ZemkitK1ZFFzDQ0Y6qxE6vNomw_BtsAI5Jm3h1f1r-5t34F1I (AWS, Devops)
+3. https://www.youtube.com/watch?v=kTk9uo96T1M
+4. https://www.youtube.com/watch?si=7FlrVheG4S6NiVrr&fbclid=IwAR2ht0LGIVCfk4yTxWcNGKavSj2bYOWEKP3ltldo-K2PLawudz_K0kWVvJ8&v=u8SbdouckNg&feature=youtu.be
+5. https://www.youtube.com/watch?v=W1Co2M-gsQE (react native)
+6. https://www.youtube.com/watch?v=H9M02of22z4 (node and express)
+7. https://www.youtube.com/watch?si=ykEGp5YpZLm3-wxJ&fbclid=IwAR11umC9dbcLm4kKIXjYn5Wu7XGdZB0K4PhPOqaJ74Sx3kyZJ0-inGj9Cz8&v=vDW7ELT59sI&feature=youtu.be
+8. https://www.youtube.com/watch?v=N2hMGEeYR7c
+9. https://www.youtube.com/watch?v=Fzv-rgwcFKk (node app)
+10. https://www.youtube.com/watch?v=3HmLxT4P9Wc
+11. https://dev.to/shafia/some-common-vercel-errors-548i?fbclid=IwAR0qu1z9HoQzmGdDEdAr5eRUBADvLA0HLKWICuT8fMf3XO5ODEN_maii-Fk (Error)
+12. https://www.youtube.com/watch?v=zZ6vybT1HQs (php)
+13. https://www.youtube.com/watch?v=oe21Nlq8GS4 (Git)
+14. https://www.youtube.com/watch?v=qlkS-e5ym1w (SQL)
+15. https://github.com/hasibimamhridoy/amajhon-final-conceptual-m-8?fbclid=IwAR0AfcKK7BkttbAfc0wN0TbS5XS5O2HDBzMPtO02CNI4a9IlzgZjaJq9u5M
+16. https://www.youtube.com/watch?v=qnXe1gecux8 (cmd traning)
+17. https://www.youtube.com/watch?v=5IanQIwhA4E (Fogma design)
+18. https://www.youtube.com/watch?v=a_qbqpDifXM (Next JS)
+19. https://www.youtube.com/watch?v=BNbPsiCGQzw (IT support)
+20. https://www.youtube.com/watch?si=l6M-yD_C2FkKnRds&fbclid=IwAR2xcGutLa7ReGiEWmsVkMU-rV2n7RRLOP5AbquZ612GvRgBMOBtQyeWSMo&v=Ez8F0nW6S-w&feature=youtu.be (Git)
+21. https://www.youtube.com/watch?si=YecsM4SK0E7VqJKJ&fbclid=IwAR16bq3rZsm_ykUhvp-rhazJ4q2RWsXDGXYnh217-tKqyfQAmD2w8SOxkjA&v=zvb3VYwomZU&feature=youtu.be (DNS Server build)
+22. https://www.youtube.com/watch?v=xhVhJieMInM (Laravel with nuxt)
+23. https://www6.waybackmachinedownloader.com/website-downloader-online/?fbclid=IwAR0AfcKK7BkttbAfc0wN0TbS5XS5O2HDBzMPtO02CNI4a9IlzgZjaJq9u5M (downloader software)
