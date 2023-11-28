@@ -1,0 +1,126 @@
+for cv:
+https://portfolio-5db0d.web.app/?fbclid=IwAR3Fuwuxv8zyWCoS1a_Mp2O_LYOEYj9hkA7gnVUzW_IRe4S1ijZ-2f42Sm8
+
+
+sumit vi er theme:
+https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme
+
+
+jhankars theme code:
+https://abdullahaljubair.github.io/Developer-Portfolio-2023/
+
+
+for frontend free course and design challanges:
+https://www.frontendmentor.io/resources
+https://devchallenges.io/learn/category/getting-started
+
+
+free course in haverd universty:
+https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?fbclid=IwAR27GBEJptiPmQ46wROp7FOS-jSEdf0TIETZbOgmuNXcYGG-BPcFJtJK14o
+
+
+jhankars link for practice:
+https://chaytisaha98.medium.com/practise-with-dev-challenges-d2be84823871
+https://dev.to/chayti/hack-the-ways-to-center-align-any-text-image-element-in-css-4e10
+https://chaytisaha98.medium.com/css-playgrounds-c0ca7a2a66ac
+
+how to make a website:
+https://websitesetup.org/website-layouts/
+
+css:
+tailwind and daisy
+
+flutter:
+Channels like The Net Ninja, Academind, and Reso Coder offer free Flutter tutorials and courses.
+The Flutter by Example website provides a collection of Flutter app samples with detailed explanations.
+https://www.youtube.com/results?search_query=flutter+course- many tutorials
+free code:
+https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/?fbclid=IwAR3_3-fKiIT7W-ZFxnBwXk0KXhOa1-Fi81mrN940aY3JYmoqp649446B8zQ
+projest many:
+https://www.youtube.com/results?search_query=flutter+full+project+tutorial
+one projesct-10hours:
+https://www.youtube.com/watch?v=OO_-MbnXQzY
+https://instructivetech.com/category/flutter-tutorial/#gsc.tab=0
+bangla api project:
+https://www.youtube.com/playlist?list=PLciCgPpoIJW42LWP13LhCqb090eQbS8_l
+best courses here:
+https://www.youtube.com/playlist?list=PLgmBguE-4f2xzeOuxoNc-hrSmIXR1Rdjp
+https://www.udemy.com/course/learn-flutter-beginners-course/?LSNPUBID=JVFxdTr9V80&components=add_to_cart%2Cbase_purchase_section%2Cbuy_button%2Ccacheable_buy_button%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Clifetime_access_context%2Cprice_text%2Cpurchase%2Cpurchase_tabs_context%2Crecommendation%2Credeem_coupon&fbclid=IwAR3KwQ05J3ZD6WGR5ig73Hxonhjf5Zc7XpQV93ZySMor93Ie8XmESmjltMs&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-cy2vTjZbCz4iDYFphDPxiQ&utm_medium=udemyads&utm_source=aff-campaign
+best for revan ranawat:
+https://www.youtube.com/watch?v=O3nmP-lZAdg&list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO
+his chaanel:
+https://www.youtube.com/playlist?list=PL9n0l8rSshSnT19B70XO9dYUucjD3aYWa
+many projects:
+https://www.youtube.com/playlist?list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO
+https://www.youtube.com/@dbestech/playlists
+flutter bangla:
+https://www.youtube.com/playlist?list=PLW7fU_8SZVru1iQPvdq06GCCVCKN0LV-T
+https://www.youtube.com/@freecodecampbengali
+2023:
+https://www.classcentral.com/report/best-flutter-and-dart-courses/?fbclid=IwAR3e7g-83NGSqLS2Zk3JU5djPZ4YBafc4xNsvwwSVDWqQYl742qSyUxsLHk
+
+2days flutter:
+https://www.youtube.com/watch?v=VPvVD8t02U8
+
+flutter boss channel:
+https://www.youtube.com/@VandadNP/playlists
+https://www.youtube.com/@freecodecamp
+https://pixolity.com/twitter-backend-clone-with-node-express-mongodb/?fbclid=IwAR1s4HlChn_ANHKOxTKIFQUIvGEvBfkD7Y__Le_8yoyo1omVay_vqV810Sk
+
+
+
+api:
+https://www.youtube.com/watch?si=fNNkbXO-dA5i_6fo&fbclid=IwAR24qFiixK67fTfv9ToYdyr3sRg_LvfZRpgCbn991yzHBL2of68Supzl21U&v=WXsD0ZgxjRw&feature=youtu.be
+
+
+
+
+flutter library:
+https://zenn.dev/semapho/articles/7399def07247ec?fbclid=IwAR0I855ZIJysg4sfKaMvr3rQV-bkOetIBRGA9ukNCZ-eAydz0MlpZT3fSuU
+
+
+
+flutter ui project:
+https://www.youtube.com/watch?v=D4nhaszNW4o
+
+
+project:
+https://www.youtube.com/results?search_query=Ecommerce+project+in+flutter+with+api
+https://www.dbestech.com/tutorials/how-to-use-flutter-getx-tips-for-beginners-to-advanced?fbclid=IwAR038Oghc3tdcSudokKj_JkDmITcDBErtnFoFSwwD6h0O9YOtG-YNRTy8IE
+
+
+
+
+js tutorials:(this site also give various languages tutorials)
+https://community.openweaver.com/t/basics-of-javascript-self-guided-tutorial-earn-verified-certificate-badge/42062?fbclid=IwAR2EKBXky9j0JvCwMEhbG28jBuJ7V0H3C-U-U1RqhSKU6oG7O8e2H2v9Yxk
+https://alison.com/tags
+https://olympus.mygreatlearning.com/dashboard
+https://hackernoon.com/es6-for-beginners-f98120b57414?fbclid=IwAR2qhxvzAYMgKwibPnvA_0RNEm626pAdh_D7J85biB8vUcS2O49RCpjBooI
+react:
+https://medium.com/free-code-camp/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6
+https://www.pluralsight.com/browse?=&q=flutter&type=standard&sort=default&level=Beginner&fbclid=IwAR3Vj4hLgWErVMK3Ek9yTNZEaDPIYlobAGHsHSsjG1tBnnZOuL1KOe1N5dY
+https://www.scaler.com/topics/courses/?fbclid=IwAR038Oghc3tdcSudokKj_JkDmITcDBErtnFoFSwwD6h0O9YOtG-YNRTy8IE
+
+interview question:
+https://www.simplilearn.com/flutter-interview-questions-article?fbclid=IwAR2QfCrRYcxPUo7tcecyr6pB5F-59eBZEVMWqeRPu652g93V6CNVtD8VH3Y#GoTop
+
+
+
+
+css:
+Css training at the infinite level of realistic practical, effective way.
+https://javascript.plainenglish.io/stacking-cards-with-pure-css-and-a-dash-of-javascript-45e1647d471d?fbclid=IwAR2MkaTiuNSIrTAuSfqWJjrdG9OP2y1KNSyECTvQj2wcQ3_mZnKZCMy2C6c&gi=079b4cc45489
+https://codyhouse.co/ds/components/app/stacking-cards?fbclid=IwAR2vTk8I42Pe17TKExBqmIPDi8HiIgBSM8xOT_uuqcfdn8Iww_NJFrntkYE
+https://www.youtube.com/@content123/playlists
+
+
+
+presentation:
+https://www.veed.io/workspaces/41a1149f-5dc5-4328-bd03-5a591beda8cf/home
+
+germany:
+https://fintiba.com/solutions/companion/?gclid=CjwKCAjw3oqoBhAjEiwA_UaLtkzEFUsI1BKmLzJZdTKVGF6Q_599_yxd-UvryWGkXbvVTdGxk-E1cBoCGLoQAvD_BwE&fbclid=IwAR0wOL7IIGM49s69c0CViEc9P68DmL36i5Q8S1g6uBAn6wEOIXUeEn6ibc0
+
+
+
+
